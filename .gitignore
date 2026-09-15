@@ -1,0 +1,11 @@
+pycache/
+
+*.pyc
+
+.idea/
+
+.venv/
+
+venv/
+
+.env
